@@ -6,6 +6,11 @@
 
 - Flask
 
+Link do repositório onde foi desenvolvido o modelo utilizado:
+```sh
+https://github.com/jeffersonmatheusdev/sklearn-flower-categorizer
+```
+
 Para visualizar o resultado em sua máquina, siga os seguintes passos:
 ```sh
 cd sklearn-API-flower-categorizer-main

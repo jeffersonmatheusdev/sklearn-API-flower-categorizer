@@ -7,4 +7,4 @@
 - Flask
 
 ## Imagem utilizada para previsão
-<img src="https://github.com/jeffersonmatheusdev/sklearn-API-flower-categorizer/blob/main/Prints/image_to_predict.jpg" width="100" height="100">
+<center><img src="https://github.com/jeffersonmatheusdev/sklearn-API-flower-categorizer/blob/main/Prints/image_to_predict.jpg" width="100" height="100"></center>
